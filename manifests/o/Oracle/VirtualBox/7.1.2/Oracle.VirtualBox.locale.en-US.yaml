@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 
 PackageIdentifier: Oracle.VirtualBox
-PackageVersion: 7.1.0
+PackageVersion: 7.1.2
 PackageLocale: en-US
 Publisher: Oracle and/or its affiliates
 PublisherUrl: https://www.oracle.com/
@@ -28,7 +28,7 @@ Tags:
 - vboxusb.inf
 - virtual-machine
 - virtualization
-ReleaseNotesUrl: https://www.virtualbox.org/wiki/Changelog-7.1#v0
+ReleaseNotesUrl: https://www.virtualbox.org/wiki/Changelog-7.1#v2
 Documentations:
 - DocumentLabel: VirtualBox User Guide
   DocumentUrl: https://www.virtualbox.org/manual
@@ -40,3 +40,4 @@ Documentations:
   DocumentUrl: https://forums.virtualbox.org/
 ManifestType: defaultLocale
 ManifestVersion: 1.10.0
+
